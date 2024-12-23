@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|c:\\users\\avahm\\desktop\\projects\\paymentsystem\\paymentsystem.api\\src\\api\\paymentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|solutionrelative:src\\api\\paymentsystem.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|c:\\users\\avahm\\desktop\\projects\\paymentsystem\\paymentsystem.api\\src\\api\\paymentsystem.api\\paymentsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|solutionrelative:src\\api\\paymentsystem.api\\paymentsystem.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|c:\\users\\avahm\\desktop\\projects\\paymentsystem\\paymentsystem.api\\src\\api\\paymentsystem.api\\paymentsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|solutionrelative:src\\api\\paymentsystem.api\\paymentsystem.api.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|c:\\users\\avahm\\desktop\\projects\\paymentsystem\\paymentsystem.api\\src\\api\\paymentsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1308F9D0-766C-4013-A635-EB6546D5E443}|src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj|solutionrelative:src\\api\\paymentsystem.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaymentSystem.Api.http",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.http",
+              "RelativeDocumentMoniker": "src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.http",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.http",
+              "RelativeToolTip": "src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-22T22:23:55.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentSystem.Api",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj",
+              "RelativeDocumentMoniker": "src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj",
+              "RelativeToolTip": "src\\Api\\PaymentSystem.Api\\PaymentSystem.Api.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-22T22:21:01.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\Api\\PaymentSystem.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\appsettings.json",
+              "RelativeToolTip": "src\\Api\\PaymentSystem.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T22:20:56.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Api\\PaymentSystem.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\avahm\\Desktop\\Projects\\PaymentSystem\\PaymentSystem.api\\src\\Api\\PaymentSystem.Api\\Program.cs",
+              "RelativeToolTip": "src\\Api\\PaymentSystem.Api\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T22:16:21.595Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
